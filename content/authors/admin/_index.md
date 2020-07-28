@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ufg.br/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Minha pesquisa incluem estudos sobre violência, narcotráfico.
 
 interests:
 - Sociologia Econômica
