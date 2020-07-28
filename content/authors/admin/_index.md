@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Adriano Sousa é Bacharel em Relações Internacionais pela Universidade Federal de Goiás (UFG), e mestrando do Programa de Pós-Graduação em Sociologia, também pela UFG. Tem interesse por temas como Criminalidade Transnacional, Sociologia Econômica e Política Internacional. Foi bolsista PIBIC (2017 - 2018), tendo apresentado trabalhos em congressos e seminários, foi também bolsista PROBEC (2018 - 2019). Durante a graduação tem se dedicado em participar de diversas atividades, foi membro da comissão organizadora do XVI Curso de Extensão em Defesa Nacional..
