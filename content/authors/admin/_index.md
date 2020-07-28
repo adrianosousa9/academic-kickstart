@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:Estudante no PPGS - UFG
+role:
 
 # Organizations/Affiliations
 organizations:
