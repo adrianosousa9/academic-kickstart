@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:adrianosou94@gmail.com".
-# - icon: twitter
+- icon: twitter
   icon_pack: fab
   link: 
 - icon: google-scholar
